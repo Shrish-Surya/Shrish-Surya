@@ -2,8 +2,6 @@
 
 ## Selected projects
 
-All of these were built with teammates.
-
 | Project | What it does | Stack |
 |---|---|---|
 | [**agentic-code-repair**](https://github.com/Shrish-Surya/agentic-code-repair) | Autonomous agent that takes a GitHub issue, explores the repo, writes a fix, runs the tests in a Docker sandbox, iterates on failures and opens a pull request. Includes a 27-task benchmark and an evaluation harness. | Python, LLM tool use (Groq / Anthropic), Docker |
